@@ -16,7 +16,7 @@ export default function Home() {
           </span>
 
           <a href="https://github.com/Pritesh55/next-v1"
-            className='bg-blue-700 text-white px-4 py-2 text-lg'>
+            className=' bg-blue-200 text-white px-4 py-2 text-lg hover:bg-blue-600 border-2 border-blue-700'>
             Github Link
           </a>
         </h1>

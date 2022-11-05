@@ -10,8 +10,15 @@ export default function Home() {
 
       <div className="p-5 bg-gray-50">
 
-        <h1 className='text-3xl text-black font-semibold mb-6 '>
-          Example 01 -- Tabs
+        <h1 className='flex justify-between text-3xl text-black font-semibold mb-6 '>
+          <span>
+            Example 01 -- Tabs
+          </span>
+
+          <a href="https://github.com/Pritesh55/next-v1"
+            className='bg-blue-700 text-white px-4 py-2 text-lg'>
+            Github Link
+          </a>
         </h1>
 
         {/* Tab Component */}

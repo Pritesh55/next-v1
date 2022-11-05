@@ -261,17 +261,13 @@ export default function Home() {
                     {/* It's Code */}
                     <code>
                       {`
-{/* ----------Import Above your Components------------------------ */}
+
+
+{/* ---------------------------------- */} 
 import { Tab } from '@headlessui/react'
 {/* ---------------------------------- */}      
 
-{/* ------- JSX Code Between the 
-            export default function Home() {
-              return( <>
-                  Here.......
-               </> )
-            }
-----  */}
+{/* ------------------------------------------------------------------------------ */} 
 {/* Tab Component */}                   
 <div className="headless-ui-tab">
  <Tab.Group>
@@ -403,6 +399,8 @@ import { Tab } from '@headlessui/react'
 
  </Tab.Group>
 </div>
+
+{/* ------------------------------------------------------------------------------ */} 
 
 `}
                     </code>

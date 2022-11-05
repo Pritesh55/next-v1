@@ -257,7 +257,7 @@ export default function Home() {
 
                 {/* Content Starts from here */}
                 <blockquote>
-                  <pre>
+                  <pre className="overflow-auto">
                     {/* It's Code */}
                     <code>
                       {`
@@ -405,7 +405,7 @@ export default function Home() {
 
                 {/* Content Starts from here */}
                 <blockquote>
-                  <pre>
+                  <pre className="overflow-auto">
                     {/* It's Code */}
                     <code>
                       {`
@@ -431,7 +431,7 @@ export default function Home() {
 
                 {/* Content Starts from here */}
                 <blockquote>
-                  <pre>
+                  <pre className="overflow-auto">
                     {/* It's Code */}
                     <code>
                       {`

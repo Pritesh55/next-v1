@@ -115,7 +115,7 @@ export default function Home() {
             <Tab.Panels>
 
               {/* 1st Tab Content :: (Preview)  */}
-              <Tab.Panel className="bg-white px-1 py-5 min-h-screen border-2 border-gray-400 relative z-10 -mt-0.5">
+              <Tab.Panel className="bg-white px-1 py-2 min-h-screen border-2 border-gray-400 relative z-10 -mt-0.5">
 
                 {/* Content Starts from here */}
                 <div className="bg-gray-100 px-4 py-5">

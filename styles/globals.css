@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*  */
+.headless-ui-tab button {
+  outline: none;
+  margin: 0;
+}

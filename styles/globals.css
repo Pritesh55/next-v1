@@ -7,3 +7,18 @@
   outline: none;
   margin: 0;
 }
+
+.bg_grad_moti {
+    background: linear-gradient(144deg, #ffd200 40.85%, #fdb965 98.66%);
+    background: url(../public/img/bg-header.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.port-name::first-letter {
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(255, 0, 68);
+  padding-right: 1px;
+
+}
